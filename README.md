@@ -12,7 +12,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://sun9-87.userapi.com/impg/bi-wE2qjOnGukn6o-e-YnrWO_folhww1Tp6J0Q/LDvwzNZ3aRE.jpg?size=682x979&quality=96&sign=059a011ee3b5cfa706364adc9bd29c11&type=album" width="400" height="900" />
+<img align="right" alt="GIF" src="https://sun9-87.userapi.com/impg/bi-wE2qjOnGukn6o-e-YnrWO_folhww1Tp6J0Q/LDvwzNZ3aRE.jpg?size=682x979&quality=96&sign=059a011ee3b5cfa706364adc9bd29c11&type=album" width="400" height="auto" />
   
 **Languages and Tools:**  
 
